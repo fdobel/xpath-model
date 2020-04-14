@@ -1,3 +1,7 @@
+from typing import List
+
+from structure.nodes.Node import XPathNode
+
 import unittest
 from os import path
 
